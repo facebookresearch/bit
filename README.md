@@ -31,7 +31,7 @@ If you find our code useful for your research, please consider citing:
   For data augmentation on GLUE, please follow the instruction in [TinyBERT](https://github.com/huawei-noah/Pretrained-Language-Model/tree/master/TinyBERT).
 
 
-### 3. Data:
+### 3. Pretrained models:
 * Download pretrained models from hugging face model zoo.
   | Dataset | Finetuned full-precision model |
   | --- | --- |
