@@ -1,3 +1,10 @@
+# coding=utf-8
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+#
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
 TASK_NAME=$1
 GLUE_DIR=/data/glue_dataset/${TASK_NAME}
 TEACHER_MODEL_DIR=/models/bert_base_uncased_pretrained_model/bert-base-uncased-${TASK_NAME}

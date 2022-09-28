@@ -1,3 +1,10 @@
+# coding=utf-8
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# All rights reserved.
+#
+# This source code is licensed under the license found in the
+# LICENSE file in the root directory of this source tree.
+
 TASK_NAME=squad
 DATA_DIR=/data/squad_dataset
 TEACHER_MODEL_DIR=/models/bert-base-uncased/squad-v1
