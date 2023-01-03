@@ -5,7 +5,7 @@ This repository contains the training code of BiT introduced in our work: "[BiT:
 In this work, we identify a series of improvements which enables binary transformers at a much higher accuracy than what was possible previously. These include a two-set binarization scheme, a novel elastic binary activation function with learned parameters, and a multi-step distilation method. These approaches allow for the first time, fully binarized transformer models that are at a practical level of accuracy, approaching a full-precision BERT baseline on the GLUE language understanding benchmark within as little as 5.9%.
 
 <div align=center>
-<img width=60% src="https://github.com/fairinternal/binary-models/blob/public_release/overview.jpg"/>
+<img width=60% src="https://github.com/facebookresearch/bit/blob/main/overview.jpg"/>
 </div>
 
 
