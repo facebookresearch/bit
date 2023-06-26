@@ -47,9 +47,9 @@ If you find our code useful for your research, please consider citing:
 
 ### 4. Steps to run:
 * Specify the num_bits, data path and the pre-trained model path in scrips/run.sh file. 
-* Run `bash scrips/run_glue.sh GLUE_dataset` or Run `bash scrips/run_squad.sh` .
+* Run `bash scripts/run_glue.sh GLUE_dataset` or Run `bash scrips/run_squad.sh` .
 
-  E.g., `bash scrips/run_glue.sh MNLI` for running the MNLI dataset in GLUE dataset.
+  E.g., `bash scripts/run_glue.sh MNLI` for running the MNLI dataset in GLUE dataset.
 
 ## Models
 
